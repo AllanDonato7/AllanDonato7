@@ -13,7 +13,7 @@
        min-width="420px" 
        height="200px" 
        align="left" 
-       src="(https://github-readme-stats.vercel.app/api/top-langs/?username=AllanDonato7)"/>     
+       src="[! [Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/ ? Username = anuraghazra )] (https://github.com/anuraghazra/github-readme-stats)"/>     
 </p>
 
 
