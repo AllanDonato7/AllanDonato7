@@ -1,5 +1,5 @@
 <p>
-  <img> 
+  <img 
        width="48%" 
        min-width="420px" 
        height="200px" 
