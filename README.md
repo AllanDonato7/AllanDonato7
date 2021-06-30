@@ -12,7 +12,7 @@
        width="45%" 
        min-width="420px" 
        height="200px" 
-       align="left" 
+       align="center" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanDonato7&theme=radical&hide_border=true"/>     
 </p>
 
