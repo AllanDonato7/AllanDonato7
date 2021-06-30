@@ -11,5 +11,5 @@
        min-width="420px" 
        height="200px" 
        align="left" 
-       src=" Username = AllanDonato7 & show_icons = true )   
-</p>
+       src="Username = AllanDonato7 & show_icons = true"   
+
