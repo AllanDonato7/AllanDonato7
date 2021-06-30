@@ -4,9 +4,7 @@
        min-width="420px" 
        height="200px" 
        align="left" 
-       src= "? Username = anuraghazra )] (https://github.com/AllanDonato7e-stats)"/>
-
-
-       src="? Username = AllanDonato7 & show_icons = true & theme = radical )"/>     
+       src= "https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
+   
 </p>
 
