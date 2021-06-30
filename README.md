@@ -4,6 +4,6 @@
        min-width="420px" 
        height="200px" 
        align="left" 
-       src= "Username = AllanDonato7  https://github.com/AllanDonato7/github-readme-stats"
+       src= "https://github.com/AllanDonato7/github-readme-stats"
 
 
