@@ -1,4 +1,4 @@
-<img src="Images/computer-illustration (1).png" min-width="400px" max-width="400px" width="400px" align="center-left" alt="Computador">
+<img src="Images/computer-illustration (1).png" min-width="300px" max-width="300px" width="300px" align="center" alt="Computador">
 
 
 <p>
