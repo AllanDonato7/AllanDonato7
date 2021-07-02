@@ -17,4 +17,4 @@
         alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=AllanDonato7&theme=radical&hide_border=true" title="Github Contributions"/>
 </p>  
  
-<img src="Images/computer-illustration (1).png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="Images/computer-illustration (1).png" min-width="400px" max-width="400px" width="400px" align="center" alt="Computador">
