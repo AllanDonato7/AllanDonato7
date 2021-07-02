@@ -12,7 +12,7 @@
   <img 
         width="40%" 
         height="200px" 
-        align="center" 
+        align="left" 
         alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=AllanDonato7&theme=radical&hide_border=true" title="Github Contributions" />
 </p>  
  
