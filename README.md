@@ -1,7 +1,4 @@
-<img src="Images/computer-illustration (1).png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
-
-
-<br>
+<p>
   <img 
        width="40%"  
        height="200px" 
@@ -13,7 +10,8 @@
        height="200px" 
        align="center" 
        src= "https://github-readme-stats.vercel.app/api/top-langs/?username=AllanDonato7&layout=compact&theme=radical"/>
-<br>
+</p>
   
   
  
+v
