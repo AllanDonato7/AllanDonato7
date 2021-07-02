@@ -1,5 +1,6 @@
 <img src="Images/computer-illustration (1).png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
+
 <p>
   <img 
        width="48%" 
@@ -19,4 +20,3 @@
 
 
 
- ### <p align="center"> There is no limit to dream </p>
