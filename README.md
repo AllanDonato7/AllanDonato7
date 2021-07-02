@@ -11,9 +11,8 @@
   <img 
        width="40%" 
        height="200px" 
-       align="left" 
+       align="center" 
        src= "https://github-readme-stats.vercel.app/api/top-langs/?username=AllanDonato7&layout=compact&theme=radical"/>
-   
 <p>
   
   
