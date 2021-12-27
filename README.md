@@ -16,11 +16,6 @@ Hi, Welcome to my Profile.
 
 
 
-<p align="left">
-    <img src= "https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
-  </p>
-
-
 <p>
   <img 
        width="48%"  
