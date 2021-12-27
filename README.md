@@ -3,7 +3,7 @@
 	     	width="110%"
 	     	alt="cover"
 		loading="lazy"
-		src="Images/WhatsApp Image 2021-12-26 at 23.29.56.jpeg" 
+		src="Images/WhatsApp Image 2021-12-26 at 23.15.40.jpeg" 
 		title="Allan Donato"> 	
 </p>
 
