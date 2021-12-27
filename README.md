@@ -3,11 +3,18 @@ Hi, Welcome to my Profile.
 👋 My name is Allan Lourenço Donato, I'm 16 years old.
  
  
- - 💻 Studying Front-end
- - 🎴 Skills: Python, HTML, CSS
+ -💻 Studying Front-end
+ 
+ ### Skills 
+ 
+ <div style="display: inline_block"><br>
+ <img align="center" alt="Allan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Allan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Allan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
 
-### Ferramentas
+
 <p align="left">
     <img src= "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   </p>
