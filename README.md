@@ -9,7 +9,7 @@
 
 -👋 Hi, Welcome to my Profile.
 
--🧛‍♂️ My name is Allan Lourenço Donato, I'm 16 years old
+-👨‍💻 My name is Allan Lourenço Donato, I'm 16 years old.
  
  -💻 Studying Front-end
  
