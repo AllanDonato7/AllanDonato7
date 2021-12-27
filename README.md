@@ -3,7 +3,7 @@
 	     	width="80%"
 	     	alt="cover"
 		loading="lazy"
-		src="Images/lua.gif" 
+		src="Images/desolar.gif" 
 		title="Allan Donato"> 	
 </p>
 
