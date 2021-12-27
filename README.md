@@ -1,3 +1,12 @@
+<p align="center">
+	<img
+	     	width="110%"
+	     	alt="cover"
+		loading="lazy"
+		src="assets/star.gif" 
+		title="Allan Donato"> 	
+</p>
+
 Hi, Welcome to my Profile.
 
 👋 My name is Allan Lourenço Donato, I'm 16 years old.
