@@ -1,6 +1,6 @@
 <p align="center">
 	<img
-	     	width="110%"
+	     	width="50%"
 	     	alt="cover"
 		loading="lazy"
 		src="Images/lua.gif" 
