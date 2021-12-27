@@ -3,7 +3,7 @@
 	     	width="110%"
 	     	alt="cover"
 		loading="lazy"
-		src="ddnm7kmznqd71.gif" 
+		src="Images/ddnm7kmznqd71.gif" 
 		title="Allan Donato"> 	
 </p>
 
