@@ -29,6 +29,10 @@ Hi, Welcome to my Profile.
        align="right" 
        src= "https://github-readme-stats.vercel.app/api?username=AllanDonato7&show_icons=true&theme=radical&hide_border=true"/>
 </p>
+
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
   
   
 <p>
