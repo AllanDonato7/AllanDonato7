@@ -29,26 +29,25 @@
 <a href="https://www.linkedin.com/in/allan-donato-180368219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<p>
+<div align="center">
   <img 
        width="48%"  
        min-width="420px" 
        height="200px" 
        align="left" 
        src= "https://github-readme-stats.vercel.app/api?username=AllanDonato7&show_icons=true&theme=radical&hide_border=true"/>
-</p>
+
 
 
   
-<p>
+
   <img 
         width="48%" 
         min-width="420px" 
         height="200px" 
         align="center" 
-        alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=AllanDonato7&theme=radical&hide_border=true" title="Github Contributions"/>
-</p>  
- 
+        alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=AllanDonato7&theme=radical&hide_border=true" title="Github Contributions"/> 
+ </div>
  
  
  
