@@ -11,7 +11,7 @@
 
 🌎💻 My name is Allan Lourenço Donato, I'm 18 years old.
  
-💻 Studying Front-end
+💻 Studying Analysis and Systems Development
  
  ### Skills 
  
